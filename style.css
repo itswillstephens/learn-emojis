@@ -4,23 +4,20 @@
 }
 
 #emoji-char {
-  padding-top: 8vh;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 4vh;
-  font-size: 8em;
+  padding-top: 70px;
   text-align: center;
+  font-size: 20vh;
 }
 
 #emoji-definition {
   padding-top: 1vh;
   padding-left: 5px;
   padding-right: 5px;
+  margin-top: 1vh;
   margin-left: auto;
   margin-right: auto;
-  font-size: 2em;
+  font-size: 4vh;
   text-align: center;
-  margin-top: 1vh;
 }
 
 #random-emoji-button {
