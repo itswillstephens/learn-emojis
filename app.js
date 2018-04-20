@@ -10398,5 +10398,7 @@ emojiButton.addEventListener("click", emojiRandomizer);
 function emojiRandomizer() {
 
   const randomEmoji = emojiFeed[Math.floor(Math.random()*emojiFeed.length)];
-  document.getElementById("emoji-placeholder").innerHTML = randomEmoji.char + " " + randomEmoji.name;
+  document.getElementById("emoji-char").innerHTML = randomEmoji.char;
+  document.getElementById("emoji-definition").innerHTML = randomEmoji.name;
+  document.getElementById("instructions").innerHTML = "";
 }
