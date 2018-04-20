@@ -4683,13 +4683,6 @@ const emojiFeed = [
     "keywords": "kick | scooter"
   },
   {
-    "no": 804,
-    "codes": "1F6F9",
-    "char": "🛹",
-    "name": "⊛ skateboard",
-    "keywords": "board"
-  },
-  {
     "no": 805,
     "codes": "1F6F5",
     "char": "🛵",
