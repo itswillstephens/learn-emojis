@@ -4,9 +4,10 @@
 }
 
 #emoji-char {
-  padding-top: 80px;
+  padding-top: 100px;
   text-align: center;
   font-size: 15vh;
+  padding-bottom: 2vh;
 }
 
 #emoji-definition {
@@ -22,10 +23,10 @@
 
 #random-emoji-button {
   position: fixed;
-  bottom: 18vh;
+  bottom: 16vh;
   width: 100%;
-  height: 20vh;
-  margin-top: 5vh;
+  height: 23vh;
+  margin-top: 3vh;
   background-color: blue;
   font-size: 5vh;
   color: white;
