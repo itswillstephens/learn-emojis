@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#emoji-placeholder {
+  padding-top: 15vh;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 3em;
+  text-align: center;
+  margin-top: 5vh;
+}
+
+button#random-emoji-button {
+  position: fixed;
+  bottom: 20vh;
+  width: 100%;
+  height: 20vh;
+  margin-top: 5vh;
+  background-color: blue;
+  font-size: 2em;
+  color: white;
+}

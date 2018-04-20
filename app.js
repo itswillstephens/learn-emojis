@@ -98,13 +98,6 @@ const emojiFeed = [
     "keywords": "face | face blowing a kiss | kiss"
   },
   {
-    "no": 15,
-    "codes": "1F970",
-    "char": "🥰",
-    "name": "⊛ smiling face with 3 hearts",
-    "keywords": "adore | crush | in love"
-  },
-  {
     "no": 16,
     "codes": "1F617",
     "char": "😗",
@@ -455,20 +448,6 @@ const emojiFeed = [
     "keywords": "face | face screaming in fear | fear | fearful | munch | scared | scream"
   },
   {
-    "no": 66,
-    "codes": "1F975",
-    "char": "🥵",
-    "name": "⊛ hot face",
-    "keywords": "feverish | heat stroke | hot | red-faced | sweating"
-  },
-  {
-    "no": 67,
-    "codes": "1F976",
-    "char": "🥶",
-    "name": "⊛ cold face",
-    "keywords": "blue-faced | cold | freezing | frostbite | icicles"
-  },
-  {
     "no": 68,
     "codes": "1F633",
     "char": "😳",
@@ -567,27 +546,6 @@ const emojiFeed = [
     "keywords": "cowboy | cowgirl | face | hat"
   },
   {
-    "no": 82,
-    "codes": "1F973",
-    "char": "🥳",
-    "name": "⊛ partying face",
-    "keywords": "celebration | hat | horn | party"
-  },
-  {
-    "no": 83,
-    "codes": "1F974",
-    "char": "🥴",
-    "name": "⊛ woozy face",
-    "keywords": "dizzy | intoxicated | tipsy | uneven eyes | wavy mouth"
-  },
-  {
-    "no": 84,
-    "codes": "1F97A",
-    "char": "🥺",
-    "name": "⊛ pleading face",
-    "keywords": "begging | mercy | puppy eyes"
-  },
-  {
     "no": 85,
     "codes": "1F925",
     "char": "🤥",
@@ -663,13 +621,6 @@ const emojiFeed = [
     "char": "💀",
     "name": "skull",
     "keywords": "death | face | fairy tale | monster | skull"
-  },
-  {
-    "no": 96,
-    "codes": "2620",
-    "char": "☠",
-    "name": "skull and crossbones",
-    "keywords": "crossbones | death | face | monster | skull | skull and crossbones"
   },
   {
     "no": 97,
@@ -1092,39 +1043,11 @@ const emojiFeed = [
     "keywords": "cop | officer | police"
   },
   {
-    "no": 157,
-    "codes": "1F46E 200D 2642 FE0F",
-    "char": "👮‍♂️",
-    "name": "man police officer",
-    "keywords": "cop | man | officer | police"
-  },
-  {
-    "no": 158,
-    "codes": "1F46E 200D 2640 FE0F",
-    "char": "👮‍♀️",
-    "name": "woman police officer",
-    "keywords": "cop | officer | police | woman"
-  },
-  {
     "no": 159,
     "codes": "1F575",
     "char": "🕵",
     "name": "detective",
     "keywords": "detective | sleuth | spy"
-  },
-  {
-    "no": 160,
-    "codes": "1F575 FE0F 200D 2642 FE0F",
-    "char": "🕵️‍♂️",
-    "name": "man detective",
-    "keywords": "detective | man | sleuth | spy"
-  },
-  {
-    "no": 161,
-    "codes": "1F575 FE0F 200D 2640 FE0F",
-    "char": "🕵️‍♀️",
-    "name": "woman detective",
-    "keywords": "detective | sleuth | spy | woman"
   },
   {
     "no": 162,
@@ -1134,39 +1057,11 @@ const emojiFeed = [
     "keywords": "guard"
   },
   {
-    "no": 163,
-    "codes": "1F482 200D 2642 FE0F",
-    "char": "💂‍♂️",
-    "name": "man guard",
-    "keywords": "guard | man"
-  },
-  {
-    "no": 164,
-    "codes": "1F482 200D 2640 FE0F",
-    "char": "💂‍♀️",
-    "name": "woman guard",
-    "keywords": "guard | woman"
-  },
-  {
     "no": 165,
     "codes": "1F477",
     "char": "👷",
     "name": "construction worker",
     "keywords": "construction | hat | worker"
-  },
-  {
-    "no": 166,
-    "codes": "1F477 200D 2642 FE0F",
-    "char": "👷‍♂️",
-    "name": "man construction worker",
-    "keywords": "construction | man | worker"
-  },
-  {
-    "no": 167,
-    "codes": "1F477 200D 2640 FE0F",
-    "char": "👷‍♀️",
-    "name": "woman construction worker",
-    "keywords": "construction | woman | worker"
   },
   {
     "no": 168,
@@ -1192,16 +1087,9 @@ const emojiFeed = [
   {
     "no": 171,
     "codes": "1F473 200D 2642 FE0F",
-    "char": "👳‍♂️",
-    "name": "man wearing turban",
+    "char": "👳‍",
+    "name": "wearing turban",
     "keywords": "man | man wearing turban | turban"
-  },
-  {
-    "no": 172,
-    "codes": "1F473 200D 2640 FE0F",
-    "char": "👳‍♀️",
-    "name": "woman wearing turban",
-    "keywords": "turban | woman | woman wearing turban"
   },
   {
     "no": 173,
@@ -1230,76 +1118,6 @@ const emojiFeed = [
     "char": "👱",
     "name": "blond-haired person",
     "keywords": "blond | blond-haired person"
-  },
-  {
-    "no": 177,
-    "codes": "1F471 200D 2642 FE0F",
-    "char": "👱‍♂️",
-    "name": "blond-haired man",
-    "keywords": "blond | blond-haired man | man"
-  },
-  {
-    "no": 178,
-    "codes": "1F471 200D 2640 FE0F",
-    "char": "👱‍♀️",
-    "name": "blond-haired woman",
-    "keywords": "blond-haired woman | blonde | woman"
-  },
-  {
-    "no": 179,
-    "codes": "1F468 200D 1F9B0",
-    "char": "👨‍🦰",
-    "name": "⊛ man, red haired",
-    "keywords": ""
-  },
-  {
-    "no": 180,
-    "codes": "1F469 200D 1F9B0",
-    "char": "👩‍🦰",
-    "name": "⊛ woman, red haired",
-    "keywords": ""
-  },
-  {
-    "no": 181,
-    "codes": "1F468 200D 1F9B1",
-    "char": "👨‍🦱",
-    "name": "⊛ man, curly haired",
-    "keywords": ""
-  },
-  {
-    "no": 182,
-    "codes": "1F469 200D 1F9B1",
-    "char": "👩‍🦱",
-    "name": "⊛ woman, curly haired",
-    "keywords": ""
-  },
-  {
-    "no": 183,
-    "codes": "1F468 200D 1F9B2",
-    "char": "👨‍🦲",
-    "name": "⊛ man, bald",
-    "keywords": ""
-  },
-  {
-    "no": 184,
-    "codes": "1F469 200D 1F9B2",
-    "char": "👩‍🦲",
-    "name": "⊛ woman, bald",
-    "keywords": ""
-  },
-  {
-    "no": 185,
-    "codes": "1F468 200D 1F9B3",
-    "char": "👨‍🦳",
-    "name": "⊛ man, white haired",
-    "keywords": ""
-  },
-  {
-    "no": 186,
-    "codes": "1F469 200D 1F9B3",
-    "char": "👩‍🦳",
-    "name": "⊛ woman, white haired",
-    "keywords": ""
   },
   {
     "no": 187,
@@ -1351,48 +1169,6 @@ const emojiFeed = [
     "keywords": "celebration | Christmas | claus | mother | Mrs. | Mrs. Claus"
   },
   {
-    "no": 194,
-    "codes": "1F9B8",
-    "char": "🦸",
-    "name": "⊛ superhero",
-    "keywords": "good | hero | heroine | superpowers"
-  },
-  {
-    "no": 195,
-    "codes": "1F9B8 200D 2640 FE0F",
-    "char": "🦸‍♀️",
-    "name": "⊛ woman superhero",
-    "keywords": ""
-  },
-  {
-    "no": 196,
-    "codes": "1F9B8 200D 2642 FE0F",
-    "char": "🦸‍♂️",
-    "name": "⊛ man superhero",
-    "keywords": ""
-  },
-  {
-    "no": 197,
-    "codes": "1F9B9",
-    "char": "🦹",
-    "name": "⊛ supervillain",
-    "keywords": "bad | criminal | evil | superpowers | villain"
-  },
-  {
-    "no": 198,
-    "codes": "1F9B9 200D 2640 FE0F",
-    "char": "🦹‍♀️",
-    "name": "⊛ woman supervillain",
-    "keywords": ""
-  },
-  {
-    "no": 199,
-    "codes": "1F9B9 200D 2642 FE0F",
-    "char": "🦹‍♂️",
-    "name": "⊛ man supervillain",
-    "keywords": ""
-  },
-  {
     "no": 200,
     "codes": "1F9D9",
     "char": "🧙",
@@ -1402,16 +1178,9 @@ const emojiFeed = [
   {
     "no": 201,
     "codes": "1F9D9 200D 2640 FE0F",
-    "char": "🧙‍♀️",
-    "name": "woman mage",
+    "char": "🧙‍",
+    "name": "mage",
     "keywords": "sorceress | witch | woman mage"
-  },
-  {
-    "no": 202,
-    "codes": "1F9D9 200D 2642 FE0F",
-    "char": "🧙‍♂️",
-    "name": "man mage",
-    "keywords": "man mage | sorcerer | wizard"
   },
   {
     "no": 203,
@@ -1419,20 +1188,6 @@ const emojiFeed = [
     "char": "🧚",
     "name": "fairy",
     "keywords": "fairy | Oberon | Puck | Titania"
-  },
-  {
-    "no": 204,
-    "codes": "1F9DA 200D 2640 FE0F",
-    "char": "🧚‍♀️",
-    "name": "woman fairy",
-    "keywords": "Titania | woman fairy"
-  },
-  {
-    "no": 205,
-    "codes": "1F9DA 200D 2642 FE0F",
-    "char": "🧚‍♂️",
-    "name": "man fairy",
-    "keywords": "man fairy | Oberon | Puck"
   },
   {
     "no": 206,
@@ -1444,16 +1199,9 @@ const emojiFeed = [
   {
     "no": 207,
     "codes": "1F9DB 200D 2640 FE0F",
-    "char": "🧛‍♀️",
-    "name": "woman vampire",
+    "char": "🧛‍",
+    "name": "vampire",
     "keywords": "undead | woman vampire"
-  },
-  {
-    "no": 208,
-    "codes": "1F9DB 200D 2642 FE0F",
-    "char": "🧛‍♂️",
-    "name": "man vampire",
-    "keywords": "Dracula | man vampire | undead"
   },
   {
     "no": 209,
@@ -1465,16 +1213,9 @@ const emojiFeed = [
   {
     "no": 210,
     "codes": "1F9DC 200D 2640 FE0F",
-    "char": "🧜‍♀️",
+    "char": "🧜‍",
     "name": "mermaid",
     "keywords": "mermaid | merwoman"
-  },
-  {
-    "no": 211,
-    "codes": "1F9DC 200D 2642 FE0F",
-    "char": "🧜‍♂️",
-    "name": "merman",
-    "keywords": "merman | Triton"
   },
   {
     "no": 212,
@@ -1484,39 +1225,11 @@ const emojiFeed = [
     "keywords": "elf | magical | LOTR style"
   },
   {
-    "no": 213,
-    "codes": "1F9DD 200D 2640 FE0F",
-    "char": "🧝‍♀️",
-    "name": "woman elf",
-    "keywords": "magical | woman elf"
-  },
-  {
-    "no": 214,
-    "codes": "1F9DD 200D 2642 FE0F",
-    "char": "🧝‍♂️",
-    "name": "man elf",
-    "keywords": "magical | man elf"
-  },
-  {
     "no": 215,
     "codes": "1F9DE",
     "char": "🧞",
     "name": "genie",
     "keywords": "djinn | genie | (non-human color)"
-  },
-  {
-    "no": 216,
-    "codes": "1F9DE 200D 2640 FE0F",
-    "char": "🧞‍♀️",
-    "name": "woman genie",
-    "keywords": "djinn | woman genie"
-  },
-  {
-    "no": 217,
-    "codes": "1F9DE 200D 2642 FE0F",
-    "char": "🧞‍♂️",
-    "name": "man genie",
-    "keywords": "djinn | man genie"
   },
   {
     "no": 218,
@@ -1526,39 +1239,11 @@ const emojiFeed = [
     "keywords": "undead | walking dead | zombie | (non-human color)"
   },
   {
-    "no": 219,
-    "codes": "1F9DF 200D 2640 FE0F",
-    "char": "🧟‍♀️",
-    "name": "woman zombie",
-    "keywords": "undead | walking dead | woman zombie"
-  },
-  {
-    "no": 220,
-    "codes": "1F9DF 200D 2642 FE0F",
-    "char": "🧟‍♂️",
-    "name": "man zombie",
-    "keywords": "man zombie | undead | walking dead"
-  },
-  {
     "no": 221,
     "codes": "1F64D",
     "char": "🙍",
     "name": "person frowning",
     "keywords": "frown | gesture | person frowning"
-  },
-  {
-    "no": 222,
-    "codes": "1F64D 200D 2642 FE0F",
-    "char": "🙍‍♂️",
-    "name": "man frowning",
-    "keywords": "frowning | gesture | man"
-  },
-  {
-    "no": 223,
-    "codes": "1F64D 200D 2640 FE0F",
-    "char": "🙍‍♀️",
-    "name": "woman frowning",
-    "keywords": "frowning | gesture | woman"
   },
   {
     "no": 224,
@@ -1568,39 +1253,11 @@ const emojiFeed = [
     "keywords": "gesture | person pouting | pouting"
   },
   {
-    "no": 225,
-    "codes": "1F64E 200D 2642 FE0F",
-    "char": "🙎‍♂️",
-    "name": "man pouting",
-    "keywords": "gesture | man | pouting"
-  },
-  {
-    "no": 226,
-    "codes": "1F64E 200D 2640 FE0F",
-    "char": "🙎‍♀️",
-    "name": "woman pouting",
-    "keywords": "gesture | pouting | woman"
-  },
-  {
     "no": 227,
     "codes": "1F645",
     "char": "🙅",
     "name": "person gesturing NO",
     "keywords": "forbidden | gesture | hand | no | not | person gesturing NO | prohibited"
-  },
-  {
-    "no": 228,
-    "codes": "1F645 200D 2642 FE0F",
-    "char": "🙅‍♂️",
-    "name": "man gesturing NO",
-    "keywords": "forbidden | gesture | hand | man | man gesturing NO | no | prohibited"
-  },
-  {
-    "no": 229,
-    "codes": "1F645 200D 2640 FE0F",
-    "char": "🙅‍♀️",
-    "name": "woman gesturing NO",
-    "keywords": "forbidden | gesture | hand | no | prohibited | woman | woman gesturing NO"
   },
   {
     "no": 230,
@@ -1610,39 +1267,11 @@ const emojiFeed = [
     "keywords": "gesture | hand | OK | person gesturing OK"
   },
   {
-    "no": 231,
-    "codes": "1F646 200D 2642 FE0F",
-    "char": "🙆‍♂️",
-    "name": "man gesturing OK",
-    "keywords": "gesture | hand | man | man gesturing OK | OK"
-  },
-  {
-    "no": 232,
-    "codes": "1F646 200D 2640 FE0F",
-    "char": "🙆‍♀️",
-    "name": "woman gesturing OK",
-    "keywords": "gesture | hand | OK | woman | woman gesturing OK"
-  },
-  {
     "no": 233,
     "codes": "1F481",
     "char": "💁",
     "name": "person tipping hand",
     "keywords": "hand | help | information | person tipping hand | sassy | tipping"
-  },
-  {
-    "no": 234,
-    "codes": "1F481 200D 2642 FE0F",
-    "char": "💁‍♂️",
-    "name": "man tipping hand",
-    "keywords": "man | man tipping hand | sassy | tipping hand"
-  },
-  {
-    "no": 235,
-    "codes": "1F481 200D 2640 FE0F",
-    "char": "💁‍♀️",
-    "name": "woman tipping hand",
-    "keywords": "sassy | tipping hand | woman | woman tipping hand"
   },
   {
     "no": 236,
@@ -1652,39 +1281,11 @@ const emojiFeed = [
     "keywords": "gesture | hand | happy | person raising hand | raised"
   },
   {
-    "no": 237,
-    "codes": "1F64B 200D 2642 FE0F",
-    "char": "🙋‍♂️",
-    "name": "man raising hand",
-    "keywords": "gesture | man | man raising hand | raising hand"
-  },
-  {
-    "no": 238,
-    "codes": "1F64B 200D 2640 FE0F",
-    "char": "🙋‍♀️",
-    "name": "woman raising hand",
-    "keywords": "gesture | raising hand | woman | woman raising hand"
-  },
-  {
     "no": 239,
     "codes": "1F647",
     "char": "🙇",
     "name": "person bowing",
     "keywords": "apology | bow | gesture | person bowing | sorry"
-  },
-  {
-    "no": 240,
-    "codes": "1F647 200D 2642 FE0F",
-    "char": "🙇‍♂️",
-    "name": "man bowing",
-    "keywords": "apology | bowing | favor | gesture | man | sorry"
-  },
-  {
-    "no": 241,
-    "codes": "1F647 200D 2640 FE0F",
-    "char": "🙇‍♀️",
-    "name": "woman bowing",
-    "keywords": "apology | bowing | favor | gesture | sorry | woman"
   },
   {
     "no": 242,
@@ -1694,39 +1295,11 @@ const emojiFeed = [
     "keywords": "disbelief | exasperation | face | palm | person facepalming"
   },
   {
-    "no": 243,
-    "codes": "1F926 200D 2642 FE0F",
-    "char": "🤦‍♂️",
-    "name": "man facepalming",
-    "keywords": "disbelief | exasperation | facepalm | man | man facepalming"
-  },
-  {
-    "no": 244,
-    "codes": "1F926 200D 2640 FE0F",
-    "char": "🤦‍♀️",
-    "name": "woman facepalming",
-    "keywords": "disbelief | exasperation | facepalm | woman | woman facepalming"
-  },
-  {
     "no": 245,
     "codes": "1F937",
     "char": "🤷",
     "name": "person shrugging",
     "keywords": "doubt | ignorance | indifference | person shrugging | shrug"
-  },
-  {
-    "no": 246,
-    "codes": "1F937 200D 2642 FE0F",
-    "char": "🤷‍♂️",
-    "name": "man shrugging",
-    "keywords": "doubt | ignorance | indifference | man | man shrugging | shrug"
-  },
-  {
-    "no": 247,
-    "codes": "1F937 200D 2640 FE0F",
-    "char": "🤷‍♀️",
-    "name": "woman shrugging",
-    "keywords": "doubt | ignorance | indifference | shrug | woman | woman shrugging"
   },
   {
     "no": 248,
@@ -1736,39 +1309,11 @@ const emojiFeed = [
     "keywords": "face | massage | person getting massage | salon"
   },
   {
-    "no": 249,
-    "codes": "1F486 200D 2642 FE0F",
-    "char": "💆‍♂️",
-    "name": "man getting massage",
-    "keywords": "face | man | man getting massage | massage"
-  },
-  {
-    "no": 250,
-    "codes": "1F486 200D 2640 FE0F",
-    "char": "💆‍♀️",
-    "name": "woman getting massage",
-    "keywords": "face | massage | woman | woman getting massage"
-  },
-  {
     "no": 251,
     "codes": "1F487",
     "char": "💇",
     "name": "person getting haircut",
     "keywords": "barber | beauty | haircut | parlor | person getting haircut"
-  },
-  {
-    "no": 252,
-    "codes": "1F487 200D 2642 FE0F",
-    "char": "💇‍♂️",
-    "name": "man getting haircut",
-    "keywords": "haircut | man | man getting haircut"
-  },
-  {
-    "no": 253,
-    "codes": "1F487 200D 2640 FE0F",
-    "char": "💇‍♀️",
-    "name": "woman getting haircut",
-    "keywords": "haircut | woman | woman getting haircut"
   },
   {
     "no": 254,
@@ -1778,39 +1323,11 @@ const emojiFeed = [
     "keywords": "hike | person walking | walk | walking"
   },
   {
-    "no": 255,
-    "codes": "1F6B6 200D 2642 FE0F",
-    "char": "🚶‍♂️",
-    "name": "man walking",
-    "keywords": "hike | man | man walking | walk"
-  },
-  {
-    "no": 256,
-    "codes": "1F6B6 200D 2640 FE0F",
-    "char": "🚶‍♀️",
-    "name": "woman walking",
-    "keywords": "hike | walk | woman | woman walking"
-  },
-  {
     "no": 257,
     "codes": "1F3C3",
     "char": "🏃",
     "name": "person running",
     "keywords": "marathon | person running | running"
-  },
-  {
-    "no": 258,
-    "codes": "1F3C3 200D 2642 FE0F",
-    "char": "🏃‍♂️",
-    "name": "man running",
-    "keywords": "man | marathon | racing | running"
-  },
-  {
-    "no": 259,
-    "codes": "1F3C3 200D 2640 FE0F",
-    "char": "🏃‍♀️",
-    "name": "woman running",
-    "keywords": "marathon | racing | running | woman"
   },
   {
     "no": 260,
@@ -1834,39 +1351,11 @@ const emojiFeed = [
     "keywords": "bunny ear | dancer | partying | people with bunny ears"
   },
   {
-    "no": 263,
-    "codes": "1F46F 200D 2642 FE0F",
-    "char": "👯‍♂️",
-    "name": "men with bunny ears",
-    "keywords": "bunny ear | dancer | men | men with bunny ears | partying"
-  },
-  {
-    "no": 264,
-    "codes": "1F46F 200D 2640 FE0F",
-    "char": "👯‍♀️",
-    "name": "women with bunny ears",
-    "keywords": "bunny ear | dancer | partying | women | women with bunny ears"
-  },
-  {
     "no": 265,
     "codes": "1F9D6",
     "char": "🧖",
     "name": "person in steamy room",
     "keywords": "person in steamy room | sauna | steam room | hamam | steambath"
-  },
-  {
-    "no": 266,
-    "codes": "1F9D6 200D 2640 FE0F",
-    "char": "🧖‍♀️",
-    "name": "woman in steamy room",
-    "keywords": "sauna | steam room | woman in steamy room"
-  },
-  {
-    "no": 267,
-    "codes": "1F9D6 200D 2642 FE0F",
-    "char": "🧖‍♂️",
-    "name": "man in steamy room",
-    "keywords": "man in steamy room | sauna | steam room"
   },
   {
     "no": 268,
@@ -1876,39 +1365,11 @@ const emojiFeed = [
     "keywords": "climber | person climbing"
   },
   {
-    "no": 269,
-    "codes": "1F9D7 200D 2640 FE0F",
-    "char": "🧗‍♀️",
-    "name": "woman climbing",
-    "keywords": "climber | woman climbing"
-  },
-  {
-    "no": 270,
-    "codes": "1F9D7 200D 2642 FE0F",
-    "char": "🧗‍♂️",
-    "name": "man climbing",
-    "keywords": "climber | man climbing"
-  },
-  {
     "no": 271,
     "codes": "1F9D8",
     "char": "🧘",
     "name": "person in lotus position",
     "keywords": "meditation | person in lotus position | yoga | serenity"
-  },
-  {
-    "no": 272,
-    "codes": "1F9D8 200D 2640 FE0F",
-    "char": "🧘‍♀️",
-    "name": "woman in lotus position",
-    "keywords": "meditation | woman in lotus position | yoga"
-  },
-  {
-    "no": 273,
-    "codes": "1F9D8 200D 2642 FE0F",
-    "char": "🧘‍♂️",
-    "name": "man in lotus position",
-    "keywords": "man in lotus position | meditation | yoga"
   },
   {
     "no": 274,
@@ -1988,39 +1449,11 @@ const emojiFeed = [
     "keywords": "ball | golf | person golfing"
   },
   {
-    "no": 285,
-    "codes": "1F3CC FE0F 200D 2642 FE0F",
-    "char": "🏌️‍♂️",
-    "name": "man golfing",
-    "keywords": "golf | man | man golfing"
-  },
-  {
-    "no": 286,
-    "codes": "1F3CC FE0F 200D 2640 FE0F",
-    "char": "🏌️‍♀️",
-    "name": "woman golfing",
-    "keywords": "golf | woman | woman golfing"
-  },
-  {
     "no": 287,
     "codes": "1F3C4",
     "char": "🏄",
     "name": "person surfing",
     "keywords": "person surfing | surfing"
-  },
-  {
-    "no": 288,
-    "codes": "1F3C4 200D 2642 FE0F",
-    "char": "🏄‍♂️",
-    "name": "man surfing",
-    "keywords": "man | surfing"
-  },
-  {
-    "no": 289,
-    "codes": "1F3C4 200D 2640 FE0F",
-    "char": "🏄‍♀️",
-    "name": "woman surfing",
-    "keywords": "surfing | woman"
   },
   {
     "no": 290,
@@ -2030,39 +1463,11 @@ const emojiFeed = [
     "keywords": "boat | person rowing boat | rowboat"
   },
   {
-    "no": 291,
-    "codes": "1F6A3 200D 2642 FE0F",
-    "char": "🚣‍♂️",
-    "name": "man rowing boat",
-    "keywords": "boat | man | man rowing boat | rowboat"
-  },
-  {
-    "no": 292,
-    "codes": "1F6A3 200D 2640 FE0F",
-    "char": "🚣‍♀️",
-    "name": "woman rowing boat",
-    "keywords": "boat | rowboat | woman | woman rowing boat"
-  },
-  {
     "no": 293,
     "codes": "1F3CA",
     "char": "🏊",
     "name": "person swimming",
     "keywords": "person swimming | swim"
-  },
-  {
-    "no": 294,
-    "codes": "1F3CA 200D 2642 FE0F",
-    "char": "🏊‍♂️",
-    "name": "man swimming",
-    "keywords": "man | man swimming | swim"
-  },
-  {
-    "no": 295,
-    "codes": "1F3CA 200D 2640 FE0F",
-    "char": "🏊‍♀️",
-    "name": "woman swimming",
-    "keywords": "swim | woman | woman swimming"
   },
   {
     "no": 296,
@@ -2072,39 +1477,11 @@ const emojiFeed = [
     "keywords": "ball | person bouncing ball"
   },
   {
-    "no": 297,
-    "codes": "26F9 FE0F 200D 2642 FE0F",
-    "char": "⛹️‍♂️",
-    "name": "man bouncing ball",
-    "keywords": "ball | man | man bouncing ball"
-  },
-  {
-    "no": 298,
-    "codes": "26F9 FE0F 200D 2640 FE0F",
-    "char": "⛹️‍♀️",
-    "name": "woman bouncing ball",
-    "keywords": "ball | woman | woman bouncing ball"
-  },
-  {
     "no": 299,
     "codes": "1F3CB",
     "char": "🏋",
     "name": "person lifting weights",
     "keywords": "lifter | person lifting weights | weight"
-  },
-  {
-    "no": 300,
-    "codes": "1F3CB FE0F 200D 2642 FE0F",
-    "char": "🏋️‍♂️",
-    "name": "man lifting weights",
-    "keywords": "man | man lifting weights | weight lifter"
-  },
-  {
-    "no": 301,
-    "codes": "1F3CB FE0F 200D 2640 FE0F",
-    "char": "🏋️‍♀️",
-    "name": "woman lifting weights",
-    "keywords": "weight lifter | woman | woman lifting weights"
   },
   {
     "no": 302,
@@ -2114,39 +1491,11 @@ const emojiFeed = [
     "keywords": "bicycle | biking | cyclist | person biking"
   },
   {
-    "no": 303,
-    "codes": "1F6B4 200D 2642 FE0F",
-    "char": "🚴‍♂️",
-    "name": "man biking",
-    "keywords": "bicycle | biking | cyclist | man"
-  },
-  {
-    "no": 304,
-    "codes": "1F6B4 200D 2640 FE0F",
-    "char": "🚴‍♀️",
-    "name": "woman biking",
-    "keywords": "bicycle | biking | cyclist | woman"
-  },
-  {
     "no": 305,
     "codes": "1F6B5",
     "char": "🚵",
     "name": "person mountain biking",
     "keywords": "bicycle | bicyclist | bike | cyclist | mountain | person mountain biking"
-  },
-  {
-    "no": 306,
-    "codes": "1F6B5 200D 2642 FE0F",
-    "char": "🚵‍♂️",
-    "name": "man mountain biking",
-    "keywords": "bicycle | bike | cyclist | man | man mountain biking | mountain"
-  },
-  {
-    "no": 307,
-    "codes": "1F6B5 200D 2640 FE0F",
-    "char": "🚵‍♀️",
-    "name": "woman mountain biking",
-    "keywords": "bicycle | bike | biking | cyclist | mountain | woman"
   },
   {
     "no": 308,
@@ -2170,39 +1519,11 @@ const emojiFeed = [
     "keywords": "cartwheel | gymnastics | person cartwheeling"
   },
   {
-    "no": 311,
-    "codes": "1F938 200D 2642 FE0F",
-    "char": "🤸‍♂️",
-    "name": "man cartwheeling",
-    "keywords": "cartwheel | gymnastics | man | man cartwheeling"
-  },
-  {
-    "no": 312,
-    "codes": "1F938 200D 2640 FE0F",
-    "char": "🤸‍♀️",
-    "name": "woman cartwheeling",
-    "keywords": "cartwheel | gymnastics | woman | woman cartwheeling"
-  },
-  {
     "no": 313,
     "codes": "1F93C",
     "char": "🤼",
     "name": "people wrestling",
     "keywords": "people wrestling | wrestle | wrestler"
-  },
-  {
-    "no": 314,
-    "codes": "1F93C 200D 2642 FE0F",
-    "char": "🤼‍♂️",
-    "name": "men wrestling",
-    "keywords": "men | men wrestling | wrestle"
-  },
-  {
-    "no": 315,
-    "codes": "1F93C 200D 2640 FE0F",
-    "char": "🤼‍♀️",
-    "name": "women wrestling",
-    "keywords": "women | women wrestling | wrestle"
   },
   {
     "no": 316,
@@ -2212,20 +1533,6 @@ const emojiFeed = [
     "keywords": "person playing water polo | polo | water"
   },
   {
-    "no": 317,
-    "codes": "1F93D 200D 2642 FE0F",
-    "char": "🤽‍♂️",
-    "name": "man playing water polo",
-    "keywords": "man | man playing water polo | water polo"
-  },
-  {
-    "no": 318,
-    "codes": "1F93D 200D 2640 FE0F",
-    "char": "🤽‍♀️",
-    "name": "woman playing water polo",
-    "keywords": "water polo | woman | woman playing water polo"
-  },
-  {
     "no": 319,
     "codes": "1F93E",
     "char": "🤾",
@@ -2233,39 +1540,11 @@ const emojiFeed = [
     "keywords": "ball | handball | person playing handball"
   },
   {
-    "no": 320,
-    "codes": "1F93E 200D 2642 FE0F",
-    "char": "🤾‍♂️",
-    "name": "man playing handball",
-    "keywords": "handball | man | man playing handball"
-  },
-  {
-    "no": 321,
-    "codes": "1F93E 200D 2640 FE0F",
-    "char": "🤾‍♀️",
-    "name": "woman playing handball",
-    "keywords": "handball | woman | woman playing handball"
-  },
-  {
     "no": 322,
     "codes": "1F939",
     "char": "🤹",
     "name": "person juggling",
     "keywords": "balance | juggle | multitask | person juggling | skill"
-  },
-  {
-    "no": 323,
-    "codes": "1F939 200D 2642 FE0F",
-    "char": "🤹‍♂️",
-    "name": "man juggling",
-    "keywords": "juggling | man | multitask"
-  },
-  {
-    "no": 324,
-    "codes": "1F939 200D 2640 FE0F",
-    "char": "🤹‍♀️",
-    "name": "woman juggling",
-    "keywords": "juggling | multitask | woman"
   },
   {
     "no": 325,
@@ -2541,20 +1820,6 @@ const emojiFeed = [
     "keywords": "biceps | comic | flex | flexed biceps | muscle"
   },
   {
-    "no": 364,
-    "codes": "1F9B5",
-    "char": "🦵",
-    "name": "⊛ leg",
-    "keywords": "kick | limb"
-  },
-  {
-    "no": 365,
-    "codes": "1F9B6",
-    "char": "🦶",
-    "name": "⊛ foot",
-    "keywords": "kick | stomp"
-  },
-  {
     "no": 366,
     "codes": "1F448",
     "char": "👈",
@@ -2786,34 +2051,6 @@ const emojiFeed = [
     "keywords": "body | nose"
   },
   {
-    "no": 399,
-    "codes": "1F9B0",
-    "char": "🦰",
-    "name": "⊛ red-haired",
-    "keywords": "ginger | redhead"
-  },
-  {
-    "no": 400,
-    "codes": "1F9B1",
-    "char": "🦱",
-    "name": "⊛ curly-haired",
-    "keywords": "afro | curly | ringlets"
-  },
-  {
-    "no": 401,
-    "codes": "1F9B2",
-    "char": "🦲",
-    "name": "⊛ bald",
-    "keywords": "chemotherapy | hairless | no hair | shaven"
-  },
-  {
-    "no": 402,
-    "codes": "1F9B3",
-    "char": "🦳",
-    "name": "⊛ white-haired",
-    "keywords": "gray | hair | old | white"
-  },
-  {
     "no": 403,
     "codes": "1F463",
     "char": "👣",
@@ -2847,20 +2084,6 @@ const emojiFeed = [
     "char": "🧠",
     "name": "brain",
     "keywords": "brain | intelligent"
-  },
-  {
-    "no": 408,
-    "codes": "1F9B4",
-    "char": "🦴",
-    "name": "⊛ bone",
-    "keywords": "skeleton"
-  },
-  {
-    "no": 409,
-    "codes": "1F9B7",
-    "char": "🦷",
-    "name": "⊛ tooth",
-    "keywords": "dentist"
   },
   {
     "no": 410,
@@ -3108,20 +2331,6 @@ const emojiFeed = [
     "keywords": "dark | eye | eyewear | glasses | sunglasses"
   },
   {
-    "no": 445,
-    "codes": "1F97D",
-    "char": "🥽",
-    "name": "⊛ goggles",
-    "keywords": "eye protection | swimming | welding"
-  },
-  {
-    "no": 446,
-    "codes": "1F97C",
-    "char": "🥼",
-    "name": "⊛ lab coat",
-    "keywords": "doctor | experiment | scientist"
-  },
-  {
     "no": 447,
     "codes": "1F454",
     "char": "👔",
@@ -3246,20 +2455,6 @@ const emojiFeed = [
     "char": "👟",
     "name": "running shoe",
     "keywords": "athletic | clothing | running shoe | shoe | sneaker"
-  },
-  {
-    "no": 465,
-    "codes": "1F97E",
-    "char": "🥾",
-    "name": "⊛ hiking boot",
-    "keywords": "backpacking | boot | camping | hiking"
-  },
-  {
-    "no": 466,
-    "codes": "1F97F",
-    "char": "🥿",
-    "name": "⊛ flat shoe",
-    "keywords": "ballet flat | slip-on | slipper"
   },
   {
     "no": 467,
@@ -3407,13 +2602,6 @@ const emojiFeed = [
     "char": "🦊",
     "name": "fox face",
     "keywords": "face | fox"
-  },
-  {
-    "no": 488,
-    "codes": "1F99D",
-    "char": "🦝",
-    "name": "⊛ raccoon",
-    "keywords": "curious | sly"
   },
   {
     "no": 489,
@@ -3584,13 +2772,6 @@ const emojiFeed = [
     "keywords": "bactrian | camel | hump | two-hump camel"
   },
   {
-    "no": 513,
-    "codes": "1F999",
-    "char": "🦙",
-    "name": "⊛ llama",
-    "keywords": "alpaca | guanaco | vicuña | wool"
-  },
-  {
     "no": 514,
     "codes": "1F992",
     "char": "🦒",
@@ -3610,13 +2791,6 @@ const emojiFeed = [
     "char": "🦏",
     "name": "rhinoceros",
     "keywords": "rhinoceros"
-  },
-  {
-    "no": 517,
-    "codes": "1F99B",
-    "char": "🦛",
-    "name": "⊛ hippopotamus",
-    "keywords": "hippo"
   },
   {
     "no": 518,
@@ -3703,20 +2877,6 @@ const emojiFeed = [
     "keywords": "face | panda"
   },
   {
-    "no": 530,
-    "codes": "1F998",
-    "char": "🦘",
-    "name": "⊛ kangaroo",
-    "keywords": "Australia | joey | jump | marsupial"
-  },
-  {
-    "no": 531,
-    "codes": "1F9A1",
-    "char": "🦡",
-    "name": "⊛ badger",
-    "keywords": "honey badger | pester"
-  },
-  {
     "no": 532,
     "codes": "1F43E",
     "char": "🐾",
@@ -3801,32 +2961,11 @@ const emojiFeed = [
     "keywords": "bird | duck"
   },
   {
-    "no": 544,
-    "codes": "1F9A2",
-    "char": "🦢",
-    "name": "⊛ swan",
-    "keywords": "bird | cygnet | ugly duckling"
-  },
-  {
     "no": 545,
     "codes": "1F989",
     "char": "🦉",
     "name": "owl",
     "keywords": "bird | owl | wise"
-  },
-  {
-    "no": 546,
-    "codes": "1F99A",
-    "char": "🦚",
-    "name": "⊛ peacock",
-    "keywords": "bird | ostentatious | peahen | proud"
-  },
-  {
-    "no": 547,
-    "codes": "1F99C",
-    "char": "🦜",
-    "name": "⊛ parrot",
-    "keywords": "bird | pirate | talk"
   },
   {
     "no": 548,
@@ -3962,13 +3101,6 @@ const emojiFeed = [
     "keywords": "Cancer | crab | zodiac"
   },
   {
-    "no": 567,
-    "codes": "1F99E",
-    "char": "🦞",
-    "name": "⊛ lobster",
-    "keywords": "bisque | claws | seafood"
-  },
-  {
     "no": 568,
     "codes": "1F990",
     "char": "🦐",
@@ -4051,20 +3183,6 @@ const emojiFeed = [
     "char": "🦂",
     "name": "scorpion",
     "keywords": "scorpio | Scorpio | scorpion | zodiac"
-  },
-  {
-    "no": 580,
-    "codes": "1F99F",
-    "char": "🦟",
-    "name": "⊛ mosquito",
-    "keywords": "disease | fever | insect | malaria | virus"
-  },
-  {
-    "no": 581,
-    "codes": "1F9A0",
-    "char": "🦠",
-    "name": "⊛ microbe",
-    "keywords": "amoeba | bacteria | virus"
   },
   {
     "no": 582,
@@ -4270,13 +3388,6 @@ const emojiFeed = [
     "keywords": "fruit | pineapple"
   },
   {
-    "no": 611,
-    "codes": "1F96D",
-    "char": "🥭",
-    "name": "⊛ mango",
-    "keywords": "shaker | tropical"
-  },
-  {
     "no": 612,
     "codes": "1F34E",
     "char": "🍎",
@@ -4389,13 +3500,6 @@ const emojiFeed = [
     "keywords": "cucumber | food | pickle | vegetable"
   },
   {
-    "no": 628,
-    "codes": "1F96C",
-    "char": "🥬",
-    "name": "⊛ leafy green",
-    "keywords": "bok choy | cabbage | kale | lettuce"
-  },
-  {
     "no": 629,
     "codes": "1F966",
     "char": "🥦",
@@ -4450,13 +3554,6 @@ const emojiFeed = [
     "char": "🥨",
     "name": "pretzel",
     "keywords": "pretzel | twisted | convoluted"
-  },
-  {
-    "no": 637,
-    "codes": "1F96F",
-    "char": "🥯",
-    "name": "⊛ bagel",
-    "keywords": "bakery | schmear"
   },
   {
     "no": 638,
@@ -4606,13 +3703,6 @@ const emojiFeed = [
     "keywords": "popcorn"
   },
   {
-    "no": 659,
-    "codes": "1F9C2",
-    "char": "🧂",
-    "name": "⊛ salt",
-    "keywords": "condiment | shaker"
-  },
-  {
     "no": 660,
     "codes": "1F96B",
     "char": "🥫",
@@ -4704,13 +3794,6 @@ const emojiFeed = [
     "keywords": "cake | fish | fish cake with swirl | pastry | swirl"
   },
   {
-    "no": 673,
-    "codes": "1F96E",
-    "char": "🥮",
-    "name": "⊛ moon cake",
-    "keywords": "autumn | festival | yuèbǐng"
-  },
-  {
     "no": 674,
     "codes": "1F361",
     "char": "🍡",
@@ -4786,13 +3869,6 @@ const emojiFeed = [
     "char": "🍰",
     "name": "shortcake",
     "keywords": "cake | dessert | pastry | shortcake | slice | sweet"
-  },
-  {
-    "no": 685,
-    "codes": "1F9C1",
-    "char": "🧁",
-    "name": "⊛ cupcake",
-    "keywords": "bakery | sweet"
   },
   {
     "no": 686,
@@ -5019,13 +4095,6 @@ const emojiFeed = [
     "keywords": "Japan | map | map of Japan"
   },
   {
-    "no": 718,
-    "codes": "1F9ED",
-    "char": "🧭",
-    "name": "⊛ compass",
-    "keywords": "magnetic | navigation | orienteering"
-  },
-  {
     "no": 719,
     "codes": "1F3D4",
     "char": "🏔",
@@ -5108,13 +4177,6 @@ const emojiFeed = [
     "char": "🏗",
     "name": "building construction",
     "keywords": "building construction | construction"
-  },
-  {
-    "no": 731,
-    "codes": "1F9F1",
-    "char": "🧱",
-    "name": "⊛ brick",
-    "keywords": "bricks | clay | mortar | wall"
   },
   {
     "no": 732,
@@ -5852,13 +4914,6 @@ const emojiFeed = [
     "keywords": "bell | bellhop | hotel"
   },
   {
-    "no": 837,
-    "codes": "1F9F3",
-    "char": "🧳",
-    "name": "⊛ luggage",
-    "keywords": "packing | travel"
-  },
-  {
     "no": 838,
     "codes": "231B",
     "char": "⌛",
@@ -6419,13 +5474,6 @@ const emojiFeed = [
     "keywords": "celebration | fireworks | sparkle | sparkler"
   },
   {
-    "no": 918,
-    "codes": "1F9E8",
-    "char": "🧨",
-    "name": "⊛ firecracker",
-    "keywords": "dynamite | explosive | fireworks"
-  },
-  {
     "no": 919,
     "codes": "2728",
     "char": "✨",
@@ -6494,13 +5542,6 @@ const emojiFeed = [
     "char": "🎑",
     "name": "moon viewing ceremony",
     "keywords": "celebration | ceremony | moon | moon viewing ceremony"
-  },
-  {
-    "no": 929,
-    "codes": "1F9E7",
-    "char": "🧧",
-    "name": "⊛ red envelope",
-    "keywords": "gift | good luck | hóngbāo | lai see | money"
   },
   {
     "no": 930,
@@ -6594,13 +5635,6 @@ const emojiFeed = [
     "keywords": "ball | baseball"
   },
   {
-    "no": 943,
-    "codes": "1F94E",
-    "char": "🥎",
-    "name": "⊛ softball",
-    "keywords": "ball | glove | underarm"
-  },
-  {
     "no": 944,
     "codes": "1F3C0",
     "char": "🏀",
@@ -6636,13 +5670,6 @@ const emojiFeed = [
     "keywords": "ball | racquet | tennis"
   },
   {
-    "no": 949,
-    "codes": "1F94F",
-    "char": "🥏",
-    "name": "⊛ flying disc",
-    "keywords": "ultimate"
-  },
-  {
     "no": 950,
     "codes": "1F3B3",
     "char": "🎳",
@@ -6669,13 +5696,6 @@ const emojiFeed = [
     "char": "🏒",
     "name": "ice hockey",
     "keywords": "game | hockey | ice | puck | stick"
-  },
-  {
-    "no": 954,
-    "codes": "1F94D",
-    "char": "🥍",
-    "name": "⊛ lacrosse",
-    "keywords": "ball | goal | stick"
   },
   {
     "no": 955,
@@ -6783,13 +5803,6 @@ const emojiFeed = [
     "keywords": "ball | crystal | fairy tale | fantasy | fortune | tool"
   },
   {
-    "no": 970,
-    "codes": "1F9FF",
-    "char": "🧿",
-    "name": "⊛ nazar amulet",
-    "keywords": "bead | charm | evil-eye | nazar | talisman"
-  },
-  {
     "no": 971,
     "codes": "1F3AE",
     "char": "🎮",
@@ -6816,20 +5829,6 @@ const emojiFeed = [
     "char": "🎲",
     "name": "game die",
     "keywords": "dice | die | game"
-  },
-  {
-    "no": 975,
-    "codes": "1F9E9",
-    "char": "🧩",
-    "name": "⊛ jigsaw",
-    "keywords": "clue | interlocking | piece | puzzle"
-  },
-  {
-    "no": 976,
-    "codes": "1F9F8",
-    "char": "🧸",
-    "name": "⊛ teddy bear",
-    "keywords": "plaything | plush | stuffed | toy"
   },
   {
     "no": 977,
@@ -6907,20 +5906,6 @@ const emojiFeed = [
     "char": "🎨",
     "name": "artist palette",
     "keywords": "art | artist palette | museum | painting | palette"
-  },
-  {
-    "no": 988,
-    "codes": "1F9F5",
-    "char": "🧵",
-    "name": "⊛ thread",
-    "keywords": "needle | sewing | spool | string"
-  },
-  {
-    "no": 989,
-    "codes": "1F9F6",
-    "char": "🧶",
-    "name": "⊛ yarn",
-    "keywords": "ball | crochet | knit"
   },
   {
     "no": 990,
@@ -7217,13 +6202,6 @@ const emojiFeed = [
     "keywords": "blu-ray | computer | disk | dvd | optical"
   },
   {
-    "no": 1032,
-    "codes": "1F9EE",
-    "char": "🧮",
-    "name": "⊛ abacus",
-    "keywords": "calculation"
-  },
-  {
     "no": 1033,
     "codes": "1F3A5",
     "char": "🎥",
@@ -7495,13 +6473,6 @@ const emojiFeed = [
     "char": "💳",
     "name": "credit card",
     "keywords": "bank | card | credit | money"
-  },
-  {
-    "no": 1072,
-    "codes": "1F9FE",
-    "char": "🧾",
-    "name": "⊛ receipt",
-    "keywords": "accounting | bookkeeping | evidence | proof"
   },
   {
     "no": 1073,
@@ -7980,46 +6951,11 @@ const emojiFeed = [
     "keywords": "chain | chains"
   },
   {
-    "no": 1141,
-    "codes": "1F9F0",
-    "char": "🧰",
-    "name": "⊛ toolbox",
-    "keywords": "chest | mechanic | tool"
-  },
-  {
-    "no": 1142,
-    "codes": "1F9F2",
-    "char": "🧲",
-    "name": "⊛ magnet",
-    "keywords": "attraction | horseshoe | magnetic"
-  },
-  {
     "no": 1143,
     "codes": "2697",
     "char": "⚗",
     "name": "alembic",
     "keywords": "alembic | chemistry | tool"
-  },
-  {
-    "no": 1144,
-    "codes": "1F9EA",
-    "char": "🧪",
-    "name": "⊛ test tube",
-    "keywords": "chemist | chemistry | experiment | lab | science"
-  },
-  {
-    "no": 1145,
-    "codes": "1F9EB",
-    "char": "🧫",
-    "name": "⊛ petri dish",
-    "keywords": "bacteria | biologist | biology | culture | lab"
-  },
-  {
-    "no": 1146,
-    "codes": "1F9EC",
-    "char": "🧬",
-    "name": "⊛ dna",
-    "keywords": "biologist | evolution | gene | genetics | life"
   },
   {
     "no": 1147,
@@ -8097,62 +7033,6 @@ const emojiFeed = [
     "char": "🛁",
     "name": "bathtub",
     "keywords": "bath | bathtub"
-  },
-  {
-    "no": 1158,
-    "codes": "1F9F4",
-    "char": "🧴",
-    "name": "⊛ lotion bottle",
-    "keywords": "lotion | moisturizer | shampoo | sunscreen"
-  },
-  {
-    "no": 1159,
-    "codes": "1F9F7",
-    "char": "🧷",
-    "name": "⊛ safety pin",
-    "keywords": "diaper | punk rock"
-  },
-  {
-    "no": 1160,
-    "codes": "1F9F9",
-    "char": "🧹",
-    "name": "⊛ broom",
-    "keywords": "cleaning | sweeping | witch"
-  },
-  {
-    "no": 1161,
-    "codes": "1F9FA",
-    "char": "🧺",
-    "name": "⊛ basket",
-    "keywords": "farming | laundry | picnic"
-  },
-  {
-    "no": 1162,
-    "codes": "1F9FB",
-    "char": "🧻",
-    "name": "⊛ roll of paper",
-    "keywords": "paper towels | toilet paper"
-  },
-  {
-    "no": 1163,
-    "codes": "1F9FC",
-    "char": "🧼",
-    "name": "⊛ soap",
-    "keywords": "bar | bathing | cleaning | lather | soapdish"
-  },
-  {
-    "no": 1164,
-    "codes": "1F9FD",
-    "char": "🧽",
-    "name": "⊛ sponge",
-    "keywords": "absorbing | cleaning | porous"
-  },
-  {
-    "no": 1165,
-    "codes": "1F9EF",
-    "char": "🧯",
-    "name": "⊛ fire extinguisher",
-    "keywords": "extinguish | fire | quench"
   },
   {
     "no": 1166,
@@ -11518,5 +10398,5 @@ emojiButton.addEventListener("click", emojiRandomizer);
 function emojiRandomizer() {
 
   const randomEmoji = emojiFeed[Math.floor(Math.random()*emojiFeed.length)];
-  document.getElementById("emoji-placeholder").innerHTML = randomEmoji.char + "\nDefinition: " + randomEmoji.name + ".";
+  document.getElementById("emoji-placeholder").innerHTML = randomEmoji.char + " " + randomEmoji.name;
 }
